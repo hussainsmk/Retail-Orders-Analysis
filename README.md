@@ -1,0 +1,1 @@
+This project analyzes retail orders to derive actionable insights using Python and SQL. The goal was to understand sales trends, top-performing products, and profit patterns, showcasing end-to-end data analysis workflow.
